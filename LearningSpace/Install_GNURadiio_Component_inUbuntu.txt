@@ -1,0 +1,16 @@
+Chapter 1. install in your own machine.
+1. how could i install in window platform?
+2. That coiuld be insane
+Chapter 2. I don't know 
+3. then, I have to export data from grc file from here
+
+
+audiodata = gr.file_sink(gr.sizeof_float, "audio.dat")
+self.connect(src0, audio)   
+
+audiodata = gr.file_sink(gr.sizeof_complex, "audio.dat")
+
+
+- I have thing about some other solutions for installing and using limesdr sensors
+- So, have some url? yessss:
+ 
